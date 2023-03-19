@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Loli Soriano"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-19T14:50:52.964113Z",
+    "updateTime": "2023-03-19T14:50:52.964113Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURocDhtMlVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "José Luis Aparicio Gil"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-19T13:38:34.119530Z",
+    "updateTime": "2023-03-19T13:38:34.119530Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURocDd5dEJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Bruno Barrera"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent place to make a sandwich. Treatment of the staff and exquisite products.\n\n(Original)\nExcelente lugar para hacer un bocata. Trato del personal y productos exquisitos.",
+    "createTime": "2023-03-18T22:30:30.317565Z",
+    "updateTime": "2023-03-18T22:30:30.317565Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURoLV9EclF3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Naiara"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Family bar, excellent treatment, they make you feel at home, the best sandwiches you can eat, good quality products.\n\n(Original)\nBar familiar, trato excelente te hacen sentir como en casa, los mejores bocadillos que te puedas comer, productos de buena calidad.",
+    "createTime": "2023-03-17T19:00:43.227086Z",
+    "updateTime": "2023-03-17T19:00:43.227086Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeV9pNDZnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Belen Gonzalez"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-15T14:28:24.242672Z",
+    "updateTime": "2023-03-15T14:28:24.242672Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURoM2ZTQVJREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Abril Sofia Terrera"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-03-08T15:32:59.503908Z",
+    "updateTime": "2023-03-08T15:32:59.503908Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURoOXVXMm9nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manel G. Molina"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Legendary Frankfurt in Terrassa. The best sandwiches here, the masterful bikini!!!👍🤣🤣 The waiters of 10. Regards.🌟\n\n(Original)\nFrankfurt legendario en Terrassa. Los mejores bocadillos aquí, el biquini magistral!!!👍🤣🤣 Los camareros de 10. Saludos.🌟",
+    "createTime": "2023-03-06T10:31:06.173568Z",
+    "updateTime": "2023-03-06T11:15:25.227081Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURocXJPQ3pnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafa Acosta"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-04T15:27:25.848969Z",
+    "updateTime": "2023-03-04T15:27:25.848969Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURoZ3ZlQ3RBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Leticia Cardozo"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-03-01T16:39:52.045735Z",
+    "updateTime": "2023-03-01T16:39:52.045735Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURoeE5XNG5nRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Xavier Sanz"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) Good food at an affordable price.\n\n(Original)\nMenjar bo ia un preu assequible.",
+    "createTime": "2023-02-28T22:06:15.939262Z",
+    "updateTime": "2023-02-28T22:06:15.939262Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMk0zZnlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Javier Ventayol"
+    },
+    "starRating": "FIVE",
+    "createTime": "2023-02-25T22:25:19.402768Z",
+    "updateTime": "2023-02-25T22:25:19.402768Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoMzdqM2l3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "judith lopez"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent 👌 service, variety and flavor. I loved everything very rich\n\n(Original)\nExcelente 👌 servicio, variedad y sabor . Me encantó muy rico todo",
+    "createTime": "2023-02-19T07:10:19.272592Z",
+    "updateTime": "2023-02-19T07:10:19.272592Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoemZTNXh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Garcia Olle"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) Good treatment and excellent service € price\n\n(Original)\nBuen trato y un servicio excelente precio €",
+    "createTime": "2023-02-15T14:13:28.081753Z",
+    "updateTime": "2023-02-15T14:13:28.081753Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoMGZ1aV93RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Susana Urbano"
+    },
+    "starRating": "THREE",
+    "createTime": "2023-02-11T22:05:36.560139Z",
+    "updateTime": "2023-02-11T22:05:36.560139Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNocHUtM3d3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jaume"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) A very good place to eat a sandwich\n\n(Original)\nUn muy buen sitio para comer un bocata",
+    "createTime": "2023-01-27T23:58:27.535218Z",
+    "updateTime": "2023-01-27T23:58:27.535218Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURCMDdpRGVBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Aneas"
+    },
+    "starRating": "FOUR",
+    "createTime": "2023-01-25T15:34:27.278580Z",
+    "updateTime": "2023-01-25T15:34:27.278580Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURCamNqX2ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Juan Carlos Ramirez Gongora"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Typical frankfurt from before, great sandwiches and very, very cordial attention, I recommend it 100%\n\n(Original)\nTípico franfurt de los de antes ,buenísimos bocadillos y una atención muy muy cordial lo recomiendo 100%",
+    "createTime": "2022-05-02T18:17:54.538539Z",
+    "updateTime": "2023-01-14T19:13:12.970443Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUMyXzVqSFBBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "comers benitez"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Very rich and friendly, good service 💪👍\n\n(Original)\nMuy rico y amables un buen servicio 💪👍",
+    "createTime": "2023-01-11T12:18:18.518781Z",
+    "updateTime": "2023-01-11T12:18:18.518781Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURCLUtIYXZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Patrick Aragón García"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-12-25T16:29:29.577Z",
+    "updateTime": "2022-12-25T16:29:29.577Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCanJ2em5RRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "el obrador de mj"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) Good attention and good sandwiches. A very popular frankfurt\n\n(Original)\nBuena atencion y buenos bocadillos. Un frankfurt muy popular",
+    "createTime": "2022-12-22T12:35:54.839482Z",
+    "updateTime": "2022-12-22T12:35:54.839482Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCcXZ2RUxREAE"
+  }]
+}

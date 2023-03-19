@@ -1,0 +1,960 @@
+{
+  "name": "accounts/107486734643006837997/locations/10693761007558595766",
+  "storeCode": "FJIPER1",
+  "locationName": "Frankfurt Jiper I",
+  "primaryPhone": "937 35 68 23",
+  "primaryCategory": {
+    "displayName": "Bar",
+    "categoryId": "gcid:bar",
+    "moreHoursTypes": [{
+      "hoursTypeId": "ACCESS",
+      "displayName": "Access",
+      "localizedDisplayName": "Access"
+    }, {
+      "hoursTypeId": "BREAKFAST",
+      "displayName": "Breakfast",
+      "localizedDisplayName": "Breakfast"
+    }, {
+      "hoursTypeId": "BRUNCH",
+      "displayName": "Brunch",
+      "localizedDisplayName": "Brunch"
+    }, {
+      "hoursTypeId": "DELIVERY",
+      "displayName": "Delivery",
+      "localizedDisplayName": "Delivery"
+    }, {
+      "hoursTypeId": "DINNER",
+      "displayName": "Dinner",
+      "localizedDisplayName": "Dinner"
+    }, {
+      "hoursTypeId": "DRIVE_THROUGH",
+      "displayName": "Drive through",
+      "localizedDisplayName": "Drive through"
+    }, {
+      "hoursTypeId": "HAPPY_HOUR",
+      "displayName": "Happy hours",
+      "localizedDisplayName": "Happy hours"
+    }, {
+      "hoursTypeId": "KITCHEN",
+      "displayName": "Kitchen",
+      "localizedDisplayName": "Kitchen"
+    }, {
+      "hoursTypeId": "LUNCH",
+      "displayName": "Lunch",
+      "localizedDisplayName": "Lunch"
+    }, {
+      "hoursTypeId": "ONLINE_SERVICE_HOURS",
+      "displayName": "Online service hours",
+      "localizedDisplayName": "Online service hours"
+    }, {
+      "hoursTypeId": "TAKEOUT",
+      "displayName": "Takeout",
+      "localizedDisplayName": "Takeout"
+    }, {
+      "hoursTypeId": "SENIOR_HOURS",
+      "displayName": "Senior hours",
+      "localizedDisplayName": "Senior hours"
+    }]
+  },
+  "websiteUrl": "https://frankfurtjiper1.negocio.site/",
+  "regularHours": {
+    "periods": [{
+      "openDay": "SUNDAY",
+      "openTime": "08:00",
+      "closeDay": "SUNDAY",
+      "closeTime": "23:00"
+    }, {
+      "openDay": "MONDAY",
+      "openTime": "08:00",
+      "closeDay": "MONDAY",
+      "closeTime": "23:00"
+    }, {
+      "openDay": "WEDNESDAY",
+      "openTime": "08:00",
+      "closeDay": "WEDNESDAY",
+      "closeTime": "23:00"
+    }, {
+      "openDay": "THURSDAY",
+      "openTime": "08:00",
+      "closeDay": "THURSDAY",
+      "closeTime": "23:00"
+    }, {
+      "openDay": "FRIDAY",
+      "openTime": "08:00",
+      "closeDay": "FRIDAY",
+      "closeTime": "23:00"
+    }, {
+      "openDay": "SATURDAY",
+      "openTime": "08:00",
+      "closeDay": "SATURDAY",
+      "closeTime": "23:00"
+    }]
+  },
+  "locationKey": {
+    "placeId": "ChIJK6T_JdCSpBIRH__colNGNyM"
+  },
+  "latlng": {
+    "latitude": 41.5754037,
+    "longitude": 2.0178158
+  },
+  "specialHours": {
+    "specialHourPeriods": [{
+      "startDate": {
+        "year": 2019,
+        "month": 1,
+        "day": 1
+      },
+      "endDate": {
+        "year": 2019,
+        "month": 1,
+        "day": 1
+      },
+      "isClosed": true
+    }, {
+      "startDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 18
+      },
+      "endDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 18
+      },
+      "isClosed": true
+    }, {
+      "startDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 19
+      },
+      "endDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 19
+      },
+      "isClosed": true
+    }, {
+      "startDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 20
+      },
+      "endDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 20
+      },
+      "isClosed": true
+    }, {
+      "startDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 21
+      },
+      "endDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 21
+      },
+      "isClosed": true
+    }, {
+      "startDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 22
+      },
+      "endDate": {
+        "year": 2019,
+        "month": 4,
+        "day": 22
+      },
+      "isClosed": true
+    }, {
+      "startDate": {
+        "year": 2019,
+        "month": 6,
+        "day": 24
+      },
+      "endDate": {
+        "year": 2019,
+        "month": 6,
+        "day": 24
+      },
+      "isClosed": true
+    }]
+  },
+  "openInfo": {
+    "status": "OPEN",
+    "canReopen": true,
+    "openingDate": {
+      "year": 1982,
+      "month": 6
+    }
+  },
+  "attributes": [{
+    "attributeId": "serves_dine_in",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_trivia_night",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_live_performances",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_curbside_pickup",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_wheelchair_accessible_elevator",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_bar_games",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_wheelchair_accessible_entrance",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "serves_liquor",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_seating_rooftop",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_wheelchair_accessible_seating",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "serves_happy_hour_drinks",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "serves_food",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_seating_outdoors",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_wheelchair_accessible_parking",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "accepts_reservations",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "pay_debit_card",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_restroom",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_live_music",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "allows_outside_food",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_wheelchair_accessible_restroom",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "pay_mobile_nfc",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_dancing",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "requires_reservations",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_seating",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_karaoke_nights",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "serves_alcohol",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "serves_food_at_bar",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "serves_wine",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "pay_check",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "requires_cash_only",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "serves_beer",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "is_transgender_safespace",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "has_drive_through",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_delivery",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_takeout",
+    "valueType": "BOOL",
+    "values": [true]
+  }, {
+    "attributeId": "serves_happy_hour_food",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "has_no_contact_delivery",
+    "valueType": "BOOL",
+    "values": [false]
+  }, {
+    "attributeId": "wi_fi",
+    "valueType": "ENUM",
+    "values": ["free_wi_fi"]
+  }, {
+    "attributeId": "pay_credit_card_types_accepted",
+    "valueType": "REPEATED_ENUM",
+    "repeatedEnumValue": {
+      "setValues": ["diners_club", "jcb", "visa", "discover", "american_express", "china_union_pay", "mastercard"]
+    }
+  }],
+  "languageCode": "en",
+  "priceLists": [{
+    "priceListId": "82e5bef5-4f1f-400e-ac9d-918f28cbefa7",
+    "labels": [{
+      "displayName": "Menú"
+    }],
+    "sections": [{
+      "sectionId": "8439ebf5-bd34-49db-a2b9-5e96a391035e",
+      "labels": [{
+        "displayName": "Bocatas calientes"
+      }],
+      "items": [{
+        "itemId": "1f32845b-61fd-40e5-b46b-0c3d4ac4cf93",
+        "labels": [{
+          "displayName": "Frankfurt"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "2",
+          "nanos": 700000000
+        }
+      }, {
+        "itemId": "59a963ed-a012-4299-9c7c-2beb7b55f7eb",
+        "labels": [{
+          "displayName": "Pais"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "eb0c59be-a724-46f8-a7e5-e1e3268c5254",
+        "labels": [{
+          "displayName": "Lomo"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "e1d6b82e-6e87-4b8e-a353-ae8bbf965aaa",
+        "labels": [{
+          "displayName": "Lomo Adobado"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "3d7ba531-bbe1-4eca-af88-39c425eab905",
+        "labels": [{
+          "displayName": "Pollo"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "f4e20dfa-4084-4ec2-b926-dbfe8865784f",
+        "labels": [{
+          "displayName": "Bacon"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "402d5319-8d1a-40f6-b5e3-9a32fdea5e00",
+        "labels": [{
+          "displayName": "Ternera"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 399999998
+        }
+      }, {
+        "itemId": "ef388c10-d494-47ba-8ff4-490043787796",
+        "labels": [{
+          "displayName": "Bratwurst"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "9a92c87f-c8ac-49dd-a844-40be7f54b44b",
+        "labels": [{
+          "displayName": "Malagueña"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "854586bd-4a38-41a7-9a9d-626c32ccb129",
+        "labels": [{
+          "displayName": "Grobe"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "d5b12636-cb0f-4441-b944-0a440bf93d92",
+        "labels": [{
+          "displayName": "Chistorra"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "a9560a8f-719a-495d-8b68-63d3a16500e2",
+        "labels": [{
+          "displayName": "Krakoski"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "fb3468f8-9724-4000-8a2a-bf2b0163dba5",
+        "labels": [{
+          "displayName": "Cervela"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "605f7053-64a4-4c89-ab93-63b3bdfe6a9d",
+        "labels": [{
+          "displayName": "Garriga"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "14764f76-a741-48f8-bcd9-c1c4292438e8",
+        "labels": [{
+          "displayName": "Pikantwurst"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "314dfbcd-7e98-4ada-a144-f94b49341430",
+        "labels": [{
+          "displayName": "Hamburguesa"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "2",
+          "nanos": 799999998
+        }
+      }, {
+        "itemId": "456acfb4-0516-47a0-956e-194c672e14d9",
+        "labels": [{
+          "displayName": "Hamburguesa Con Cebolla"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "f2fc7629-539f-49ee-96fe-08569b4f147a",
+        "labels": [{
+          "displayName": "Hamburguesa con Queso"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "3a1aa491-fe1f-4f0a-a6bf-9dc44a241a2f",
+        "labels": [{
+          "displayName": "Hamburguesa Jardinera"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "42ee9a38-e2ac-4303-8a06-b739ab0f7333",
+        "labels": [{
+          "displayName": "Hamburguesa Completa",
+          "description": "Bacon, queso, cebolla, lechuga, tomate y mayonesa"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "109b9469-9738-478f-a03e-bcc76b9076ad",
+        "labels": [{
+          "displayName": "Pincho Casero"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 750000000
+        }
+      }, {
+        "itemId": "f5b13f48-77fc-44af-b2ef-c82e3c04ecfc",
+        "labels": [{
+          "displayName": "Tortilla de Patatas"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 750000000
+        }
+      }, {
+        "itemId": "9a258121-8398-47f0-a289-435044aabd69",
+        "labels": [{
+          "displayName": "Tortilla Francesa"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "2",
+          "nanos": 750000000
+        }
+      }, {
+        "itemId": "8dd8eaac-e3ef-4ae7-8ea1-d9ce80946598",
+        "labels": [{
+          "displayName": "Tortillas Variadas",
+          "description": "De queso, atún, bacon, chistorra o jamón."
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4"
+        }
+      }],
+      "sectionType": "FOOD"
+    }, {
+      "sectionId": "aaa80fe3-b5fb-4d2e-a929-59e17ae437d0",
+      "labels": [{
+        "displayName": "Bocatas especiales"
+      }],
+      "items": [{
+        "itemId": "0d2fc96c-390b-41e0-9967-dc1e7367afa9",
+        "labels": [{
+          "displayName": "Puntbratwurst",
+          "description": "Bratwurst, bacon y queso"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 400000000
+        }
+      }, {
+        "itemId": "1d3eb11d-e671-4e0f-a193-85b2dfa59a41",
+        "labels": [{
+          "displayName": "Puntpikantwurst",
+          "description": "Pikantwurst, bacon y queso"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 400000000
+        }
+      }, {
+        "itemId": "ea471530-a659-470a-b947-b68d616f61f3",
+        "labels": [{
+          "displayName": "Puntcervela",
+          "description": "Cervela, bacon y queso"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 400000000
+        }
+      }, {
+        "itemId": "4736b9f2-46a3-4e07-bd33-27b4d046570b",
+        "labels": [{
+          "displayName": "Punt",
+          "description": "Frankfurt, bacon y queso"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 899999999
+        }
+      }, {
+        "itemId": "6d1e9577-4436-44dc-a8ea-3d0d6bb31fc1",
+        "labels": [{
+          "displayName": "Chapeau",
+          "description": "Lomo, bacon, queso, lechuga y mayonesa"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "f2f794e0-146b-4707-af87-cdcc60cc17c1",
+        "labels": [{
+          "displayName": "Vaca Verde",
+          "description": "Ternera, lechuga y mayonesa"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4"
+        }
+      }, {
+        "itemId": "7a51420f-282b-421e-a0c7-1bca5841dc6c",
+        "labels": [{
+          "displayName": "Sabor Sabor",
+          "description": "Lomo adobado, queso emmental y pimiento rojo"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 200000000
+        }
+      }, {
+        "itemId": "0de53eae-5956-432d-ae06-5abed022faef",
+        "labels": [{
+          "displayName": "Jaime",
+          "description": "Sobrasada, queso, tomate y olivas"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "50f822e1-f990-45a7-bcac-a1ca95ea027f",
+        "labels": [{
+          "displayName": "Pablo",
+          "description": "Hamburguesa, jamón dulce, queso y huevo frito"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "39bdc0f5-b14a-4292-aa09-2e7dc82710b1",
+        "labels": [{
+          "displayName": "Serranito",
+          "description": "Ternera, jamón salado, pimiento, tomate"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "4",
+          "nanos": 500000000
+        }
+      }, {
+        "itemId": "9a874f9e-bc49-43a8-beaf-eb356ca49fe0",
+        "labels": [{
+          "displayName": "Kikiriki",
+          "description": "Pollo, lechuga y salsa rosa"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 899999999
+        }
+      }],
+      "sectionType": "FOOD"
+    }, {
+      "sectionId": "ff841b1c-2592-450c-b26a-afd705c7f7ef",
+      "labels": [{
+        "displayName": "Bikinis"
+      }],
+      "items": [{
+        "itemId": "b353498d-4cba-48c1-ae1a-ddb4ffb7f605",
+        "labels": [{
+          "displayName": "Mixto"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "2",
+          "nanos": 700000000
+        }
+      }, {
+        "itemId": "3762d1f9-dcc9-4483-ac0e-9d957a089470",
+        "labels": [{
+          "displayName": "Jamón Salado"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "311e1cd6-a77c-49dd-909f-8b5f85746061",
+        "labels": [{
+          "displayName": "Sobrasada"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "4b9e2149-60a7-4ff5-8848-0665302649c1",
+        "labels": [{
+          "displayName": "Frío",
+          "description": "Queso, lechuga, mayonesa, olivas, tomate y jamón dulce"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }],
+      "sectionType": "FOOD"
+    }, {
+      "sectionId": "539717e6-bae2-4755-bd4b-801807ef658b",
+      "labels": [{
+        "displayName": "Bocatas fríos"
+      }],
+      "items": [{
+        "itemId": "f193cbaf-0b48-4cb2-8a21-f86db6997761",
+        "labels": [{
+          "displayName": "Jamón dulce"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "60ae5155-a340-46e1-b1a4-10219a498f5e",
+        "labels": [{
+          "displayName": "Fuet"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "a208d6b4-8f60-4f26-a7b6-62a6a8062baf",
+        "labels": [{
+          "displayName": "Jamón salado"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 750000000
+        }
+      }, {
+        "itemId": "503ee26d-e5d8-4e16-8630-97ff018058e2",
+        "labels": [{
+          "displayName": "Atún"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3"
+        }
+      }, {
+        "itemId": "c1cc43ef-5ea7-4374-ac8a-9248541a5f1c",
+        "labels": [{
+          "displayName": "Vegetal",
+          "description": "Atún, olivas, tomate, lechuga y mayonesa"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 500000000
+        }
+      }],
+      "sectionType": "FOOD"
+    }, {
+      "sectionId": "8bbda420-cb4f-4bd4-9991-3859a9279bab",
+      "labels": [{
+        "displayName": "Para picar"
+      }],
+      "items": [{
+        "itemId": "bf93f28b-19fd-44e2-91d8-78531e22c3a5",
+        "labels": [{
+          "displayName": "Patatas Bravas"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 750000000
+        }
+      }, {
+        "itemId": "551a8b8b-0a7e-4cfe-8ecf-2c4468c73cce",
+        "labels": [{
+          "displayName": "Pinchitos al plato"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "3",
+          "nanos": 750000000
+        }
+      }, {
+        "itemId": "eff6353c-6f28-45ca-9dbc-a437ad5fb2bc",
+        "labels": [{
+          "displayName": "Berberechos"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "6",
+          "nanos": 299999998
+        }
+      }, {
+        "itemId": "725a2d7b-0888-4a41-9ba8-5e58f2ea5011",
+        "labels": [{
+          "displayName": "Snacks"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "1",
+          "nanos": 350000000
+        }
+      }, {
+        "itemId": "53eaee4e-90e4-4c83-a234-be5da25167fe",
+        "labels": [{
+          "displayName": "Olivas Rellenas"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "units": "1",
+          "nanos": 500000000
+        }
+      }],
+      "sectionType": "FOOD"
+    }, {
+      "sectionId": "a959f93a-6d11-46b5-8f88-9c1108a32504",
+      "labels": [{
+        "displayName": "Suplementos"
+      }],
+      "items": [{
+        "itemId": "dd86350a-6299-4856-bb74-0bfdb39901a7",
+        "labels": [{
+          "displayName": "Cebolla"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "nanos": 700000000
+        }
+      }, {
+        "itemId": "e248be24-77e1-45ce-9e23-c84413f66699",
+        "labels": [{
+          "displayName": "Queso"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "nanos": 700000000
+        }
+      }, {
+        "itemId": "66187dae-52ad-4a3f-abb3-bf6e4bba79be",
+        "labels": [{
+          "displayName": "Pimiento Verde/Rojo"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "nanos": 700000000
+        }
+      }, {
+        "itemId": "a204cadd-f846-40ea-9086-d5a0f46e1fce",
+        "labels": [{
+          "displayName": "Huevo Frito"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "nanos": 700000000
+        }
+      }, {
+        "itemId": "7c498601-24f4-4e26-8da7-e02c2505520a",
+        "labels": [{
+          "displayName": "Sobrasada"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "nanos": 700000000
+        }
+      }, {
+        "itemId": "7a1cf46d-ea4f-4b7a-8b1b-c8ba70a09c98",
+        "labels": [{
+          "displayName": "Pan Con Tomate"
+        }],
+        "price": {
+          "currencyCode": "EUR",
+          "nanos": 700000000
+        }
+      }],
+      "sectionType": "FOOD"
+    }]
+  }],
+  "postalAddress": {
+    "regionCode": "ES",
+    "languageCode": "ca",
+    "postalCode": "08226",
+    "administrativeArea": "Barcelona",
+    "locality": "Terrassa",
+    "addressLines": ["Avinguda de Jaume I, 354"]
+  }
+}

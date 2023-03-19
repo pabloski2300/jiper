@@ -1,0 +1,175 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Miriam Castro"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-08-16T12:40:48.886085Z",
+    "updateTime": "2022-04-10T17:22:31.393656Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURhdE43VTdBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Eric el proo mister futbol"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) The best place to eat a good sandwich in the Terrassa Nord area, very good service and very good quality, I recommend ordering a pincho which in my opinion is its best dish, but everything else is perfect too. 10/10 a bosses.\n\n(Original)\nEl mejor lugar para comerse un buen bocata en la zona de Terrassa Nord, muy buena atención y muy buena calidad, recomiendo pedir un pincho que en mi opinión es su mejor plato, pero todo lo demás está perfecto también. 10/10 unos jefes.",
+    "createTime": "2022-04-05T07:56:30.586410Z",
+    "updateTime": "2022-04-05T07:56:30.586410Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURXdV9DdlNBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Emilio Navarro"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent\n\n(Original)\nExcelente",
+    "createTime": "2022-03-20T19:56:54.970037Z",
+    "updateTime": "2022-04-02T06:00:09.271349Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURXeXNiUmZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Aurea Gaya"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Super good quality and good price 😍😍\n\n(Original)\nSuper bien calidad y buen precio 😍😍",
+    "createTime": "2017-03-19T19:31:26.996Z",
+    "updateTime": "2022-03-15T19:32:35.283790Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURRenZibWlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Antonio Paniagua Ramos"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good attention, the meals make you at the moment 😉 highly recommended\n\n(Original)\nBuenas atención las comidas te hacen al momentos 😉 recomendadisimos",
+    "createTime": "2022-03-01T10:29:46.070096Z",
+    "updateTime": "2022-03-01T10:29:46.070096Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXMGJfRUJnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Txiki Bastida Escuela de Baile"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) A very familiar treatment! very nice people\nand very rich sandwiches! Highly recommended!\n\n(Original)\nUn trato muy familiar! Gente muy maja\ny bocatas muy ricos! Muy recomendable!",
+    "createTime": "2022-02-24T00:37:53.698802Z",
+    "updateTime": "2022-02-24T00:37:53.698802Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNXNnNPUzVnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "J G"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent atention\n\n(Original)\nMuy buena atención",
+    "createTime": "2022-02-21T20:00:02.322356Z",
+    "updateTime": "2022-02-21T20:00:02.322356Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXb3VDNUhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Javier Sans Tamayo"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good professionals, and the most sandwiches\n\n(Original)\nBuenos profesionales, y los bocadillos mas",
+    "createTime": "2022-02-21T16:05:39.388727Z",
+    "updateTime": "2022-02-21T16:05:39.388727Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXd3BEMFFBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Borrego Pérez"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Friendly, clean and a good price, I recommend the skewers\n\n(Original)\nAmables,limpios y buen precio,recomiendo los pinchos",
+    "createTime": "2022-02-09T10:29:47.267332Z",
+    "updateTime": "2022-02-09T10:29:47.267332Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURteTZyN0Z3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Raul ortiz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-30T00:09:27.313470Z",
+    "updateTime": "2022-01-30T00:09:27.313470Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUM0eU0zSTlRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "INOFF Marc Trullàs"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-27T13:38:37.005250Z",
+    "updateTime": "2022-01-27T13:38:37.005250Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURtbHV1NjlBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "josep tugues"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-01-23T11:06:33.362049Z",
+    "updateTime": "2022-01-23T11:06:33.362049Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURtNHZUa2xRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Francisco Lanzillotti"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good attention\n\n(Original)\nBuena atención",
+    "createTime": "2022-01-16T20:25:07.741201Z",
+    "updateTime": "2022-01-16T20:25:07.741201Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURtOEt1RmZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Manel Garcia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-16T23:13:36.129524Z",
+    "updateTime": "2021-12-16T23:13:36.129524Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChRDSUhNMG9nS0VJQ0FnSUNtcUtRVBAB"
+  }, {
+    "reviewer": {
+      "displayName": "Y 0"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-10T14:44:17.722052Z",
+    "updateTime": "2021-12-10T14:44:17.722052Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURHMjRQM3hBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Emilio Sevilla Garcia"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-12-05T09:21:09.092066Z",
+    "updateTime": "2021-12-05T09:21:09.092066Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURHdGFiY3NRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Manuel Montoya"
+    },
+    "starRating": "THREE",
+    "comment": "(Translated by Google) Well\n\n(Original)\nBueno",
+    "createTime": "2021-12-02T17:56:51.028634Z",
+    "updateTime": "2021-12-02T17:56:51.028634Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURHbWRpcjFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mercedes ODERO DUARTE"
+    },
+    "starRating": "TWO",
+    "comment": "(Translated by Google) The frankfurter is fine, the food acceptable but I can\u0027t understand how if I ask for bread with tomato for my omelette they charge me 0.75 extra. I understand the extra cheese, but each sandwich we ordered with tomato breadcrumbs was 0.75... I had never been charged for it in any bar. Here I leave my complaint.\n\n(Original)\nEl frankfurt esta bien, la comida aceptable pero no puedo entender como si pido pan con tomate  para mi tortilla me cobren 0,75 de suplemento. Del queso extra lo entiendo pero cada bocadillo que pedimos con pan rallado de tomate 0,75..nunca me lo habian cobrado en ningun bar. Aqui os dejo mi queja.",
+    "createTime": "2021-11-22T16:28:05.631121Z",
+    "updateTime": "2021-11-22T16:28:05.631121Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURHb3FHRnJnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jordi Pellicer Thoma"
+    },
+    "starRating": "FIVE",
+    "createTime": "2021-11-15T20:00:11.812219Z",
+    "updateTime": "2021-11-15T20:00:11.812219Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURHMEphWWpBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "EM R M (Emarm)"
+    },
+    "starRating": "TWO",
+    "comment": "(Translated by Google) Although the sandwiches are good, the service is not... Overwhelmed with 7 tables, and although in the end they have noticed that neither the service nor the answers were timely and they have tried to rectify, the bad taste in the mouth has been left to us. .. Those of us who pay\n\n(Original)\nAunque los bocadillos son buenos, el servicio no lo és... Desbordados con 7 mesas, y aunque al final han notado que ni el servicio ni las contestaciones eran oportunas y ha intentado rectificar, el mal sabor de boca nos lo hemos llevado nosotros... Los que pagamos",
+    "createTime": "2021-11-06T17:06:58.727419Z",
+    "updateTime": "2021-11-06T17:06:58.727419Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHbmJMYWhRRRAB"
+  }]
+}

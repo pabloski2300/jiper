@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Jordi Traver Valero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-23T22:52:29.532752Z",
+    "updateTime": "2022-07-23T22:52:29.532752Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Z3V6SENnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jorge Garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Excellent\n\n(Original)\nExcelente",
+    "createTime": "2022-07-20T14:43:23.925437Z",
+    "updateTime": "2022-07-20T14:43:23.925437Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUN1Mk8tRVhREAE"
+  }, {
+    "reviewer": {
+      "displayName": "Maria MM"
+    },
+    "starRating": "THREE",
+    "comment": "(Translated by Google) Decent sandwiches, very good customer service.\n\n(Original)\nBocadillos decentes, atención al usuario muy buena.",
+    "createTime": "2022-07-12T13:39:09.737156Z",
+    "updateTime": "2022-07-12T13:39:09.737156Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURPX2VPYmpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sole Morales puigserver"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-07-10T14:52:01.413566Z",
+    "updateTime": "2022-07-10T14:52:01.413566Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURPbFptT3dBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Andres Osorio"
+    },
+    "starRating": "THREE",
+    "comment": "(Translated by Google) Very very good. But I put 3 stars for prices.\nIn the area there are also some establishments with a similar quality. And a little cheaper. But equally recommended.\n\n(Original)\nMuy muy bueno. Pero pongo 3 extrellas por precios.\nPor la zona también algunos establecimientos están con una calidad parecida. Y un poco más económico. Pero igualmente recomendable.",
+    "createTime": "2022-06-24T12:27:22.312769Z",
+    "updateTime": "2022-06-24T12:27:22.312769Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURPZ09faklnEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Josep Blanes"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-23T05:37:41.118915Z",
+    "updateTime": "2022-06-23T05:37:41.118915Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPcjhLbE1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Angel Carrasco"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good place for tapas, eat a sandwich.\n\n(Original)\nBuen lugar para tapear, comer un bocata.",
+    "createTime": "2022-06-14T17:37:36.139893Z",
+    "updateTime": "2022-06-14T17:37:36.139893Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPaFk2cTFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Montserrat Gay"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-14T17:18:44.183593Z",
+    "updateTime": "2022-06-14T17:18:44.183593Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPaGJxOEJ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Alex Silva"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good service and meal\n\n(Original)\nBuen servicio y buena comida",
+    "createTime": "2022-06-09T14:48:39.330362Z",
+    "updateTime": "2022-06-09T14:48:39.330362Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPdHU3R1dBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Andrea Blánquez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-05-05T13:39:38.683721Z",
+    "updateTime": "2022-06-05T13:09:30.893894Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURZNHBmOG13RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "m carnen lozano garcia"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) you eat well\n\n(Original)\nSe come bien",
+    "createTime": "2022-06-03T23:15:29.706900Z",
+    "updateTime": "2022-06-03T23:15:29.706900Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNPN09xYVd3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "A"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-06-03T06:56:17.545041Z",
+    "updateTime": "2022-06-03T06:56:17.545041Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPOUpPajNnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jordi Carretero"
+    },
+    "starRating": "ONE",
+    "comment": "(Translated by Google) They can have good sandwiches, good dishes, whatever you want, but the bravas are excessively disastrous, apart from not having brava sauce and putting a mayonnaise of dubious quality on it, the beers are served in small glasses, the first and last time we come to this place , in addition to the arrogance of the waiter saying that they have been doing the bravas like this for 20 years and nobody ever said anything ... In short, we will not return.\n\n(Original)\nPueden tener buenos bocadillos, buenos platos lo que quieras pero las bravas son excesivamente nefastas, a parte de no llevar salsa brava y ponerle una mayonesa de dudosa calidad, las cañas te las sirven en copas pequeñas, primera y última vez que venimos a este lugar, además de la prepotencia del camarero diciendo que llevan 20 años haciendo las bravas así y nunca nadie dijo nada... En fin no volveremos.",
+    "createTime": "2022-06-01T11:32:43.397408Z",
+    "updateTime": "2022-06-01T11:32:43.397408Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPLUxLdzN3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Montse Llorens"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-28T21:41:05.835811Z",
+    "updateTime": "2022-05-28T21:41:05.835811Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUQycl9QUjBRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Delgadomilan Ara Navarro,"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) One of the frankfurts, lifelong classics, a good place to have breakfast, lunch, snack and dinner, good service and a family atmosphere.\n\n(Original)\nUnos de los frankfurt ,clásicos de toda la vida  un buen lugar para desayunar almorzar merendar y cena ,buen servicio y ambiente familiar.",
+    "createTime": "2022-05-20T04:52:21.529779Z",
+    "updateTime": "2022-05-20T04:52:21.529779Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUQyeGJfcGZ3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Jack_racso 98"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) nah de locos la ostia, great bar better jipper\n\n(Original)\nnah de locos la ostia, gran bar mejor jipper",
+    "createTime": "2022-05-15T11:42:14.358643Z",
+    "updateTime": "2022-05-15T11:42:14.358643Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyN29qTDBnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Rafael Moreno Cañete"
+    },
+    "starRating": "FOUR",
+    "createTime": "2022-05-11T21:32:28.757475Z",
+    "updateTime": "2022-05-11T21:32:28.757475Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUQycXBmUWtRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "André Coimbra"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-09T12:29:35.620550Z",
+    "updateTime": "2022-05-09T12:29:35.620550Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUQydktmOURBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marc Gutierrez De La Torre"
+    },
+    "starRating": "FIVE",
+    "createTime": "2022-05-08T14:31:43.918344Z",
+    "updateTime": "2022-05-08T14:31:43.918344Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUQyckozZjVBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Miguel Angel Sotos Alvarez"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) Very good people\n\n(Original)\nMuy buena gente",
+    "createTime": "2019-03-02T23:43:40.930382Z",
+    "updateTime": "2022-04-24T08:06:52.983418Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNvaDRTT05BEAE"
+  }]
+}

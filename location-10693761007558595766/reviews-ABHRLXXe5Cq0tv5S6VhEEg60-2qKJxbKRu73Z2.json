@@ -1,0 +1,173 @@
+{
+  "reviews": [{
+    "reviewer": {
+      "displayName": "Teresa Salguero"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Good\n\n(Original)\nBien",
+    "createTime": "2019-08-16T19:27:46.308525Z",
+    "updateTime": "2019-08-16T19:27:46.308525Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSURVN0xYX01nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Pepe Mateos"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) They are very attentive and professional.\n\n(Original)\nSon muy atentos y profesionales",
+    "createTime": "2019-08-15T15:54:18.144596Z",
+    "updateTime": "2019-08-15T15:54:18.144596Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURVdE1IbWpnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Sandra Ferrer"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Perfect\n\n(Original)\nPerfecto",
+    "createTime": "2019-08-10T18:01:21.758708Z",
+    "updateTime": "2019-08-10T18:01:21.758708Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSURVd09TdGhBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Molina"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-08-07T22:27:00.020421Z",
+    "updateTime": "2019-08-07T22:27:00.020421Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVMTRxUWxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mayte Sánchez"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-07T18:41:34.237264Z",
+    "updateTime": "2019-08-07T18:41:34.237264Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVbDVYd0ZBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ramona Martinez Hernadez63"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-08-05T23:53:10.892407Z",
+    "updateTime": "2019-08-05T23:53:10.892407Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVMjhtb2V3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Anabel Ferrer"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-04T21:39:09.688252Z",
+    "updateTime": "2019-08-04T21:39:09.688252Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVeS1hRGxBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "sergibjj"
+    },
+    "starRating": "THREE",
+    "createTime": "2019-08-04T13:55:03.594387Z",
+    "updateTime": "2019-08-04T13:55:03.594387Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVOC1QUGtBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Marta Ruiz"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-03T20:32:47.101463Z",
+    "updateTime": "2019-08-03T20:32:47.101463Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVazVmR2hnRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Mari Carmen Bobi Granados"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-08-03T19:38:33.613949Z",
+    "updateTime": "2019-08-03T19:38:33.613949Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVazkyclFREAE"
+  }, {
+    "reviewer": {
+      "displayName": "José Quesada Contreras"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) For its quality and attention\n\n(Original)\nPor su calidad y atención",
+    "createTime": "2019-08-03T09:07:42.742188Z",
+    "updateTime": "2019-08-03T09:07:42.742188Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVb19IdXFRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Alfonso López Fornell"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) There are many Frankfurts in Terrassa and this one, in my opinion, is one of the best. Well located and good quality.\nThe surrounding parking is a bit bloody but it\u0027s free.\nIt\u0027s worth going.\n\n(Original)\nHay muchos Frankfurt en Terrassa y este paea mi gusto, de los mejores. Bien ubicado y buena calidad.\nEl aparcamiento de alrededores es algo cruento pero es gratis.\nMerece la pena ir.",
+    "createTime": "2019-08-02T18:09:51.414720Z",
+    "updateTime": "2019-08-02T18:09:51.414720Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVZzlxSVN3EAE"
+  }, {
+    "reviewer": {
+      "displayName": "Meritxell Alvarez"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) Exceptional place treatment and food. My favorite place\n\n(Original)\nLugar excepcional trato y comida. Mi lugar favorito",
+    "createTime": "2019-07-31T20:07:23.734834Z",
+    "updateTime": "2019-07-31T20:07:23.734834Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVemZqb3lRRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Jose Vilaplana Pastor"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) A classic eats well good Frankfurt quality price good\n\n(Original)\nUn clásico  se come bien  buenos Frankfurt calidad precio buena",
+    "createTime": "2019-07-31T12:56:58.451905Z",
+    "updateTime": "2019-07-31T12:56:58.451905Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVOVkycXh3RRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Santi"
+    },
+    "starRating": "ONE",
+    "comment": "(Translated by Google) It\u0027s worth nothing unprofessional\n\n(Original)\nNo vale nada poco profesional",
+    "createTime": "2019-07-30T16:33:57.738898Z",
+    "updateTime": "2019-07-30T16:33:57.738898Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVbGRyZk1nEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Rosa Latorre"
+    },
+    "starRating": "FOUR",
+    "comment": "(Translated by Google) I do not remember\n\n(Original)\nNo lo recuerdo",
+    "createTime": "2019-07-30T08:12:56.009465Z",
+    "updateTime": "2019-07-30T08:13:11.393958Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVcGRPcjFBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "RAQUEL MARTINEZ"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-29T11:01:45.838551Z",
+    "updateTime": "2019-07-29T11:01:45.838551Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVLWM3bE1REAE"
+  }, {
+    "reviewer": {
+      "displayName": "Marcos Martín"
+    },
+    "starRating": "FOUR",
+    "createTime": "2019-07-28T21:35:30.114080Z",
+    "updateTime": "2019-07-28T21:35:30.114080Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChZDSUhNMG9nS0VJQ0FnSUNVMmFITVlBEAE"
+  }, {
+    "reviewer": {
+      "displayName": "Ivan Portero"
+    },
+    "starRating": "FIVE",
+    "createTime": "2019-07-26T20:11:52.428204Z",
+    "updateTime": "2019-07-26T20:11:57.521137Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVa1pIZDZBRRAB"
+  }, {
+    "reviewer": {
+      "displayName": "Estefani _"
+    },
+    "starRating": "FIVE",
+    "comment": "(Translated by Google) This Frankfurt is the one of a lifetime in the neighborhood, it is small and it is outdated but do not get carried away by appearances because you can eat the best Frankfurt, hamburger etc etc ... try it because it is worth it ...\n\n(Original)\nEste Frankfurt es el de toda la vida en el barrio es pequeño y está anticuado pero no os dejéis llevar por las apariencias porque se come de fábula los mejores Frankfurt, hamburguesa etc etc.... probat porque vale la pena...",
+    "createTime": "2019-07-26T11:47:09.626685Z",
+    "updateTime": "2019-07-26T14:11:26.172174Z",
+    "name": "accounts/107486734643006837997/locations/10693761007558595766/reviews/ChdDSUhNMG9nS0VJQ0FnSUNVb2FmMnl3RRAB"
+  }]
+}
